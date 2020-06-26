@@ -1,0 +1,6 @@
+Azam,21,Asthma,Moeen,33D2
+Azam,21,Asthma,Allay,33S2
+Faiq,19,Pimple,Raheem,3S2
+faisal,23,Corona,Brother,12
+nk,kkl,iipi,kjmkl,pokpo
+nk,kkl,iipi,kjmkl,pokpo
